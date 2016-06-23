@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">MyFirstApp</string>
+  <string name="shop_title">Central Perk</string>
+  <string name="shop_address">India</string>
+  <string name="shop_contact">centralperk@gmail.com</string>
+  <string name="shop_description">Get best coffee here :)</string>
+</resources>
